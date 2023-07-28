@@ -3,3 +3,5 @@
 <div>it's wonderful!!</div>
 <div>more details</div>
 <div>I think git is a good tool</div>
+<div>use amend</div>
+
